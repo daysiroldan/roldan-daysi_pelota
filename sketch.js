@@ -25,7 +25,7 @@ function setup() {
   // frameRate(10);
   diametro = 100;
   radio = diametro / 2;
-  fondo = color(25, 100, 100);
+  fondo = color(25, 200, 25);
   colorPelota = color(0);
 }
 
